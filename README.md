@@ -18,7 +18,7 @@ The project offers the following main functionalities:
 
 ## How to Use
 
-For detailed information about the project and how to use it, please refer to the [Documentation](documentation.md) file.
+For detailed information about the project and how to use it, please refer to the [Documentation](DOCUMENTATION.md) file.
 
 ## Contributing
 
