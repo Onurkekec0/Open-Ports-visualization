@@ -20,10 +20,6 @@ The project offers the following main functionalities:
 
 For detailed information about the project and how to use it, please refer to the [Documentation](DOCUMENTATION.md) file.
 
-## Contributing
-
-If you wish to contribute to this project or report issues, please read [CONTRIBUTING](CONTRIBUTING.md) for guidelines and follow them before submitting your contributions.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
