@@ -30,7 +30,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or feedback related to the project, please feel free to reach out at: [Email Address](mailto:example@email.com)
+For any questions or feedback related to the project, please feel free to reach out at: [Email Address](mailto:onur.kkc44@gmail.com)
 
 ---
 
